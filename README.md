@@ -34,7 +34,7 @@
   <a href="https://drive.google.com/file/d/1k4JcX02xMaS5xVyk8vl19LfJuzfy_3Jw/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/MY%20CV-DOWNLOAD-white?style=for-the-badge&logo=googledrive&logoColor=black" alt="Download CV" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://linkedin.com/in/mohamedgamal17" target="_blank">
     <img src="https://img.shields.io/badge/MY%20PORTFOLIO-VISIT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Visit Portfolio" />
   </a>
 </p>
@@ -45,14 +45,14 @@
 
 <br>
 
-<h3 align="center">My Social Accounts:</h3>
+<h3 align="center">Contact Me:</h3>
 
 <p align="center">
   <a href="mailto:mohamed.g.kutb@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Gmail" height="40" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  <a href="https://linkedin.com/in/mohamedgamal17" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="40" />
   </a>
 </p>
 
@@ -75,6 +75,8 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/database.svg" alt="database" height="40" /> </a>
 </p>
 
 <br>
