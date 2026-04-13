@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1k4JcX02xMaS5xVyk8vl19LfJuzfy_3Jw/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/MY%20CV-DOWNLOAD-C2C6A7?labelColor=808080&style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV" />
+    <img src="https://img.shields.io/badge/MY%20CV-DOWNLOAD-28A745?labelColor=808080&style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV" />
   </a>
   &nbsp;
   <a href="#" target="_blank">
