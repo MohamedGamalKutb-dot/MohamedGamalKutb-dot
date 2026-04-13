@@ -1,29 +1,48 @@
-# Hi 👋, I'm Mohamed Gamal
-
-### Front-end Developer | Building modern web apps with React & Next.js
-
-- 🔭 I'm currently working on **several Front-end projects including a Social App and ContactHub using React, Next.js, and TypeScript.**
-
-- 🌱 I'm currently learning **advanced Next.js features, TypeScript,JavaScript, and UI libraries like shadcn/ui.**
-
-- 👯 I'm looking to collaborate on **innovative Front-end web applications and open-source projects.**
-
-- 💬 Ask me about **React.js, Next.js, Tailwind CSS, and modern Front-end development**
-
-- 📫 How to reach me **mohamed.g.kutb@gmail.com**
-
-- ⚡ Fun fact **I lift weights and push code 💪**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1k4JcX02xMaS5xVyk8vIH9LFJuZfy_3Jw/view?usp=sharing](https://drive.google.com/file/d/1k4JcX02xMaS5xVyk8vIH9LFJuZfy_3Jw/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/MohamedGamalKutb-dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MohamedGamalKutb-dot" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Mohamed Gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Gamal" height="30" width="40" /></a>
-<a href="https://fb.com/Mohamed Gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Gamal" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamedd-gamal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamedd-gamal2" height="30" width="40" /></a>
+​<p align="center">
+<h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
-
+​<p align="center">
+<strong>Front-end Developer | Crafting seamless UI/UX with React & Next.js</strong>
+</p>
+​<p align="center">
+<a href="[https://git.io/streak-stats](https://git.io/streak-stats)"><img src="[https://github-readme-streak-stats.herokuapp.com/?user=MohamedGamalKutb-dot&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=MohamedGamalKutb-dot&theme=radical&hide_border=true)" alt="Mohamed's Streak stats" /></a>
+</p>
+​<p align="center">
+<img src="[https://img.shields.io/badge/Front--end%20Developer-Expertise-blue?style=for-the-badge&logo=react&logoColor=white](https://img.shields.io/badge/Front--end%20Developer-Expertise-blue?style=for-the-badge&logo=react&logoColor=white)" alt="Front-end Badge" />
+<img src="[https://img.shields.io/badge/React%20%26%20Next.js-Core%20Stack-black?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/React%20%26%20Next.js-Core%20Stack-black?style=for-the-badge&logo=nextdotjs&logoColor=white)" alt="React Next Badge" />
+</p>
+​<p align="center">
+<img src="[https://img.shields.io/badge/ACTIVE%20LEARNER-ALWAYS%20IMPROVING-brightgreen?style=for-the-badge](https://img.shields.io/badge/ACTIVE%20LEARNER-ALWAYS%20IMPROVING-brightgreen?style=for-the-badge)" alt="Active Learner Badge" />
+<img src="[https://img.shields.io/badge/PROJECT--BASED-BUILDING%20REAL%20APPS-orange?style=for-the-badge](https://img.shields.io/badge/PROJECT--BASED-BUILDING%20REAL%20APPS-orange?style=for-the-badge)" alt="Project-based Badge" />
+</p>
+​<p align="center">
+<p align="center">Building modern, responsive web experiences. Currently focused on large-scale projects like a Social App and ContactHub using React, Next.js, and TypeScript.</p>
+<p align="center">Continuously evolving skills in advanced Next.js features, TypeScript, and modern UI libraries like shadcn/ui.</p>
+<p align="center">Open for collaboration on innovative Front-end web applications and open-source projects.</p>
+</p>
+​<p align="center">
+Check my popular repositories:
+</p>
+​<p align="center">
+<a href="[https://drive.google.com/file/d/1k4JcX02xMaS5xVyk8vl19LfJuzfy_3Jw/view?usp=sharing](https://drive.google.com/file/d/1k4JcX02xMaS5xVyk8vl19LfJuzfy_3Jw/view?usp=sharing)" target="_blank">
+<img src="[https://img.shields.io/badge/MY%20CV-DOWNLOAD-white?style=for-the-badge&logo=googledrive&logoColor=black](https://img.shields.io/badge/MY%20CV-DOWNLOAD-white?style=for-the-badge&logo=googledrive&logoColor=black)" alt="Download CV" />
+</a>
+<a href="#" target="_blank">
+<img src="[https://img.shields.io/badge/MY%20PORTFOLIO-VISIT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/MY%20PORTFOLIO-VISIT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Visit Portfolio" />
+</a>
+</p>
+​<p align="center">
+<img src="[https://komarev.com/ghpvc/?username=MohamedGamalKutb-dot&label=PROFILE%20VIEWS&color=0077B5&style=flat](https://komarev.com/ghpvc/?username=MohamedGamalKutb-dot&label=PROFILE%20VIEWS&color=0077B5&style=flat)" alt="Profile Views" />
+</p>
+​<p align="center">
+My Social Accounts:
+</p>
+​<p align="center">
+<a href="mailto:mohamed.g.kutb@gmail.com" target="_blank">
+<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail Badge" />
+</a>
+<a href="[https://linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username)" target="_blank">
+<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn Badge" />
+</a>
+</p>
+​<p align="center">
