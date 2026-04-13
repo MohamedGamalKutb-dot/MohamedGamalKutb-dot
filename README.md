@@ -26,19 +26,29 @@
   Open for collaboration on innovative Front-end web applications and open-source projects.
 </p>
 
+<br>
+
+<h3 align="center">Check my popular repositories:</h3>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1k4JcX02xMaS5xVyk8vl19LfJuzfy_3Jw/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/MY%20CV-DOWNLOAD-C2C6A7?labelColor=808080&style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV" />
+  </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/MY%20PORTFOLIO-VISIT-00D2FF?labelColor=808080&style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedGamalKutb-dot&label=PROFILE%20VIEWS&color=0077B5&style=flat" alt="Profile Views" />
 </p>
 
 <br>
 
-<h3 align="center">📁 My CV & Social Accounts</h3>
+<h3 align="center">My Social Accounts:</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1k4JcX02xMaS5xVyk8vl19LfJuzfy_3Jw/view?usp=sharing" target="_blank">
-    <img src="https://img.icons8.com/color/96/google-drive--v2.png" alt="Download CV" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mohamed.g.kutb@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" height="50" />
   </a>
